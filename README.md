@@ -5,7 +5,7 @@
 - Exception management with @ControllerAdvice
 - Spring Boot
 - Spring security
-- Spring JPA
+- Spring Data
 - Spring Batch
 - Spring Actuators
 - SQL
