@@ -1,4 +1,7 @@
-# Objectives
+# Required
+- Java 23
+- IDE
+- Maven
 
 # Technologies
 - Java
