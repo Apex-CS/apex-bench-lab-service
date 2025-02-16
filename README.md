@@ -19,5 +19,11 @@
 
 ## Endpoints
  |Method|Endpoint| Description|
- |GET|employee| Find all the employees with pagination|
+ |---|---|---|
+ |GET|employees| Find all the employees with pagination|
+ |GET|employees/{id}| Find employee by id|
+ |POST|employees/{id}/skills| Add skills|
+ |PATCH|employees/{id}/skills| Update skills|
+ |POST|employees/{id}/certifications| Add skills|
+ |POST|employees/registry| Register a new employee|
   
