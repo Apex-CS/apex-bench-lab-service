@@ -1,9 +1,9 @@
-# Required
+## Required
 - Java 23
 - IDE
 - Maven
 
-# Technologies
+## Technologies
 - Java
 - Exception management with @ControllerAdvice
 - Spring Boot
