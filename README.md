@@ -1,3 +1,5 @@
+# Overview
+This is a Talent tracker 
 ## Required
 - Java 23
 - IDE
