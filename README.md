@@ -1,5 +1,5 @@
 # Overview
-This is a Talent tracker 
+This is a Talent tracker laboratory
 ## Required
 - Java 23
 - IDE
