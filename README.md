@@ -16,3 +16,8 @@
 - E2E testing with Karate
 - Swagger
 - DevOps and deployment: Docker, GitHub actions
+
+## Endpoints
+ |Method|Endpoint| Description|
+ |GET|employee| Find all the employees with pagination|
+  
