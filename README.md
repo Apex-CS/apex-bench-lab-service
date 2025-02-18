@@ -19,6 +19,11 @@ This is a Talent tracker laboratory
 - Swagger
 - DevOps and deployment: Docker, GitHub actions
 
+  ## Features
+  - Bench plan. Module to create a 1 month plan.
+  - Report plan. Here you could report your daily progress  of your trainings.
+  - 
+
 ## Endpoints
  |Method|Endpoint| Description|
  |---|---|---|
