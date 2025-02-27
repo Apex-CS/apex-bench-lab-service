@@ -20,9 +20,10 @@ This is a Talent tracker laboratory
 - DevOps and deployment: Docker, GitHub actions
 
   ## Features
-  - Bench plan. Module to create a 1 month plan.
+  - Bench plan. Module to create a new bench plan template.
   - Report plan. Here you could report your daily progress  of your trainings.
-  - 
+  - Analytics.
+    1.- Filter
 
 ## Endpoints
  |Method|Endpoint| Description|
