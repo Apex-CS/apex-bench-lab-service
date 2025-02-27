@@ -23,7 +23,7 @@ This is a Talent tracker laboratory
   - Bench plan. Module to create a new bench plan template.
   - Report plan. Here you could report your daily progress  of your trainings.
   - Analytics.
-    1.- Filter
+    1.- Scores on techonlogies 
 
 ## Endpoints
  |Method|Endpoint| Description|
